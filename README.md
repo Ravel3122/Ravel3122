@@ -2,7 +2,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=+Welcome+to+My+Profile!+"
       alt="Typing SVG"
     >
   </a>
@@ -16,9 +16,9 @@
 <!-- SOBRE MIM -->
 
 <p>
-  Me chamo <strong>Ravel</strong>, tenho 17 anos e moro em Cajati - SP.
-  Atualmente curso <strong>Desenvolvimento de Sistemas</strong> na ETEC de Registro.
-  Procuro resolver problemas implementando soluções tecnológicas.
+  Me chamo <strong>Ravel</strong>, tenho 17 anos e moro em Cajati - SP e Atualmente curso <strong>Desenvolvimento de Sistemas</strong> na ETEC de Registro. <br>
+  Contribuí para alguns projetos como o <strong>eduLib</strong> no Hackathon Fatec FTX'26. Atualmente meu principal projeto é contribuindo com o desenvolviemnto do aplicativo mobile do <strong>Atipic Touch</strong> meu TCC
+    </br>
 </p>
 
 <br>
@@ -32,17 +32,6 @@
     src="./src/.gif"
     alt="Ravel"
   >
-
-  <h3>Entre em contato!</h3>
-
-  <p>
-    <a href="mailto:ravel.melgaco1@gmail.com">
-      <img
-        src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-        alt="Email"
-      >
-    </a>
-  </p>
 
   <br>
 
@@ -85,46 +74,21 @@
       width="40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     >
+    <p align="left">
+    <img
+    height="140px"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    alt="GitHub Statistics"
+  >
+      
   </p>
 
 </div>
 
-<br clear="right">
+
 
 ---
 <!-- GITHUB STATS -->
-<h3>GitHub Stats</h3>
-
-<p align="left">
-  <img
-    height="170px"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-    alt="GitHub Statistics"
-  >
-  <img
-    height="170px"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
-    alt="Top Languages"
-  >
-</p>
 
 <br>
 <!-- CONTRIBUTIONS -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    >
-  </picture>
-
-</p>
