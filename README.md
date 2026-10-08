@@ -9,7 +9,6 @@
 
 </div>
 
-<br>
 
 ---
 
@@ -21,10 +20,8 @@
     </br>
 </p>
 
-<br>
-
+---
 <!-- CONTEÚDO PRINCIPAL -->
-
 <div>
   <img
     align="right"
@@ -32,8 +29,6 @@
     src="./src/.gif"
     alt="Ravel"
   >
-
-  <br>
 
   <h3>- Minhas stacks -</h3>
 
@@ -88,7 +83,3 @@
 
 
 ---
-<!-- GITHUB STATS -->
-
-<br>
-<!-- CONTRIBUTIONS -->
