@@ -16,7 +16,7 @@
 
 <p>
   Me chamo <strong>Ravel</strong>, tenho 17 anos e moro em Cajati - SP e Atualmente curso <strong>Desenvolvimento de Sistemas</strong> na ETEC de Registro. <br>
-  Contribuí para alguns projetos como o <strong>eduLib</strong> no Hackathon Fatec FTX'26. Atualmente meu principal projeto é contribuindo com o desenvolviemnto do aplicativo mobile do <strong>Atipic Touch</strong> meu TCC
+  Contribuí para alguns projetos como o <strong>eduLib</strong> no Hackathon Fatec FTX'26. Atualmente meu principal projeto é contribuindo com o desenvolvimento do aplicativo mobile do <strong>Atipic Touch</strong> meu TCC
     </br>
 </p>
 
